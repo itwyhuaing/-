@@ -1,5 +1,11 @@
 # 服务端
 
+
+**XAMPP是什么**
+
+* [XAMPP是什么](https://www.leiue.com/what-is-xampp)
+
+
 **Mac 端 XAMPP 安装与设置**
 
 * [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
@@ -15,6 +21,8 @@
 * [MAC OS X上更改XAMPP的根目录](https://www.jianshu.com/p/6644ed2b61f6)
 
 * [MacOS XAMPP 配置](https://note.youdao.com/ynoteshare1/index.html?id=59b2742f2ddc7a4e6a8110016eb19997&type=note)
+
+
 
 **Mac 端简单应用**
 
@@ -43,4 +51,10 @@ sudo apachectl stop
 **Mac 端远程链接服务器**
 
 * [mac上finalShell的安装及使用](https://www.jianshu.com/p/334fa00eaf2b)
+
+
+**WordPress 教程**
+* [WordPress](http://www.seo628.com/themes/all-theme)
+
+
 
