@@ -1,5 +1,56 @@
 # 服务端
 
+## 从零建站
+
+**购买云服务器**
+
+**配置服务器**
+
+> 以 Mac 进行操作，记录。
+
+* 1、电脑上安装 FinalShell 。
+
+* 2、登陆 FinalShell。
+
+* 3、使用 FinalShell 给服务器安装 php、nginx 。
+
+![image]()
+
+
+```
+// 更新 - 执行两步
+
+yum update
+
+yum upgrade
+
+```
+
+
+
+```
+// 安装 nginx 
+
+yum install nginx 
+
+nginx -V
+
+```
+
+
+
+```
+// 启动 nginx
+
+service nginx start
+
+```
+
+
+
+---
+
+## 各类工具
 
 **XAMPP是什么**
 
@@ -50,7 +101,7 @@ sudo apachectl stop
 
 **Mac 端远程链接服务器**
 
-* [mac上finalShell的安装及使用](https://www.jianshu.com/p/334fa00eaf2b)
+* [mac上 finalShell 的安装及使用](https://www.jianshu.com/p/334fa00eaf2b)
 
 
 **WordPress 教程**
